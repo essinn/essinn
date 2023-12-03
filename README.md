@@ -1,7 +1,5 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--8m6DOwsd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://lh3.googleusercontent.com/x4svx9o7SLFbIq14sUztxqwIKKU3wD1Wa0HsJtWv0LAErwWJ2V7kXmwC-kTHEVbiCQ1xPPd62MeKc9moWnCHF1K2gBX-HcyxeeamqgQ7vyxC3_w8Rpq27WMRBPjlifAk4x4ENSBG51P31pS0hQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Essinn</h1>
 <h3 align="center">A highly motivated university student.</h3>
-(img align="right" alt="Coding" width="400" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79238/programing-clipart-xl.png")
 
 
 - 🔭 I’m currently collaborating on [The Dhulfiqar Project](https://github.com/MuhammadMunir1214/The-Dhulfiqar-Project)
