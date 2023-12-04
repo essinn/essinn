@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Essinn</h1>
 <h3 align="center">A highly motivated university student.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoder&psig=AOvVaw3qSeMO2Epy3X1UaeKKE7LR&ust=1701795546329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCV5Mag9oIDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
 - 🔭 I’m currently collaborating on [The Dhulfiqar Project](https://github.com/MuhammadMunir1214/The-Dhulfiqar-Project)
 
