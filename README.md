@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Essinn</h1>
 <h3 align="center">A highly motivated university student.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
 - 🔭 I’m currently collaborating on [The Dhulfiqar Project](https://github.com/MuhammadMunir1214/The-Dhulfiqar-Project)
 
