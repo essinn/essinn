@@ -1,15 +1,12 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 <h1 align="center">Hi 👋, I'm Essinn</h1>
 <h3 align="center">A highly motivated university student.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
-
-- 🔭 I’m currently collaborating on [The Dhulfiqar Project](https://github.com/MuhammadMunir1214/The-Dhulfiqar-Project)
 
 - ⚡ Fun fact **I like Java, Web Dev, 3D, Bboying, TKD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ehsanius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehsanius_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ehsanius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ehsanius" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/744642364135571617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="intelligenthoodlum" height="30" width="40" /></a>
 </p>
