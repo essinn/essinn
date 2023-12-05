@@ -1,9 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Essinn</h1>
 <h3 align="center">Apriring Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
 
-- ⚡ Fun fact **I like Java, Web Dev, 3D, Bboying, TKD**
+- ⚡ Fun fact **I like Coding, Drawing, 3D Modelling, Architecture, Bboying, TKD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
