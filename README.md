@@ -9,23 +9,19 @@ Hello! 👋 I'm Essinn, an aspiring Software Engineer. I love coding and explori
 <div style="display: flex; justify-content: space-around;">
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="Java" width="50" height="50">
-    <p>Java</p>
+    <span style="background-color: #61DAFB; color: #000; padding: 5px 10px; border-radius: 10px;">Java</span>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="Python" width="50" height="50">
-    <p>Python</p>
+    <span style="background-color: #357C5E; color: #FFF; padding: 5px 10px; border-radius: 10px;">Python</span>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="JavaScript" width="50" height="50">
-    <p>JavaScript</p>
+    <span style="background-color: #F7DF1E; color: #000; padding: 5px 10px; border-radius: 10px;">JavaScript</span>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="HTML/CSS" width="50" height="50">
-    <p>HTML/CSS</p>
+    <span style="background-color: #E44D26; color: #FFF; padding: 5px 10px; border-radius: 10px;">HTML/CSS</span>
   </div>
 
 </div>
@@ -35,39 +31,11 @@ Hello! 👋 I'm Essinn, an aspiring Software Engineer. I love coding and explori
 <div style="display: flex; justify-content: space-around;">
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="MySQL" width="50" height="50">
-    <p>MySQL</p>
+    <span style="background-color: #00758F; color: #FFF; padding: 5px 10px; border-radius: 10px;">MySQL</span>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="SQLite" width="50" height="50">
-    <p>SQLite</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="Blender" width="50" height="50">
-    <p>Blender</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://via.placeholder.com/50" alt="VS Code" width="50" height="50">
-    <p>VS Code</p>
-  </div>
-
-</div>
-
-## 🌱 Currently Learning
-
-- [ ] Java
-- [ ] Architecture
-- [ ] Bboying
-- [ ] TKD
-
-## 📫 Get in Touch
-
-- Discord: [Essinn on Discord](https://discordapp.com/users/744642364135571617)
-
-Feel free to reach out if you share similar interests or just want to connect! 😊
+    <span style="background-color: #003B57; color: #FFF; padding: 5px 10px; border-radius: 10px;">
 
 
 <!--<h1 align="center">Hi 👋, I'm Essinn</h1>
