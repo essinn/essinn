@@ -6,7 +6,7 @@ I'm an aspirant Software Engineer. Welcome to my corner of the GitHub universe! 
 
 - 💻 I love coding and exploring new technologies.
 - 🚀 Always eager to learn and grow.
-- 🌐 Enthusiast about Programming, Web Devlopment, and Open Source projects.
+- 🌐 Enthusiastic about Programming, Web Devlopment, and Open Source projects.
 
 ## 🚀 Skills
 
