@@ -21,14 +21,14 @@ Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and explori
 
 - **Other Tools:**
   - [ ] Blender
-  - [ ] PhotoSHop
+  - [ ] PhotoShop
   - [ ] VS Code
   - [ ] Office365
   - [ ] Unity
 
 ## 🌱 Currently Learning
 
-- [ ] [Architecture, Bboying, TKD]
+- [ ] Java, Architecture, Bboying, TKD
 
 ## 📫 Get in Touch
 
