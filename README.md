@@ -1,6 +1,6 @@
 # About Me
 
-Hello! 👋 I'm [Essinn], an aspirant [Software Engineer]. I love coding and exploring new technologies.
+Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and exploring new technologies.
 
 ## 🚀 Skills & Tools
 
@@ -32,7 +32,8 @@ Hello! 👋 I'm [Essinn], an aspirant [Software Engineer]. I love coding and exp
 
 ## 📫 Get in Touch
 
-- Discord: [<a href="https://discordapp.com/users/744642364135571617"</a>]
+- Discord: <a href="https://discordapp.com/users/744642364135571617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="intelligenthoodlum" height="30" width="40" /></a>
+</p>
 
 Feel free to reach out if you share similar interests or just want to connect! 😊
 
