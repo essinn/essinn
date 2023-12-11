@@ -4,43 +4,31 @@ Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and explori
 
 ## 🚀 Skills & Tools
 
-<div style="display: flex; flex-wrap: wrap;">
+### Languages & Frameworks
 
-  <div style="flex: 50%;">
+- **Languages:** 
+  - [ ] Java
+  - [ ] Python
+  - [ ] JavaScript
+  - [ ] HTML/CSS
 
-    ### Languages & Frameworks
+- **Frameworks & Libraries:**
+  - [ ] React
+  - [ ] Node.js
+  - [ ] Bootstrap
 
-    - **Languages:** 
-      - [ ] Java
-      - [ ] Python
-      - [ ] JavaScript
-      - [ ] HTML/CSS
+### Databases & Tools
 
-    - **Frameworks & Libraries:**
-      - [ ] React
-      - [ ] Node.js
-      - [ ] Bootstrap
+- **Databases:**
+  - [ ] MySQL
+  - [ ] SQLite
 
-  </div>
-
-  <div style="flex: 50%;">
-
-    ### Databases & Tools
-
-    - **Databases:**
-      - [ ] MySQL
-      - [ ] SQLite
-
-    - **Other Tools:**
-      - [ ] Blender
-      - [ ] Photoshop
-      - [ ] VS Code
-      - [ ] Office365
-      - [ ] Unity
-
-  </div>
-
-</div>
+- **Other Tools:**
+  - [ ] Blender
+  - [ ] Photoshop
+  - [ ] VS Code
+  - [ ] Office365
+  - [ ] Unity
 
 ## 🌱 Currently Learning
 
@@ -51,7 +39,8 @@ Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and explori
 
 ## 📫 Get in Touch
 
-- Discord: [Essinn on Discord](https://discordapp.com/users/744642364135571617)
+- Discord: <a href="https://discordapp.com/users/744642364135571617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="intelligenthoodlum" height="30" width="40" /></a>
+</p>
 
 Feel free to reach out if you share similar interests or just want to connect! 😊
 
