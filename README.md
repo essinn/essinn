@@ -1,48 +1,23 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Essinn
 
-![Banner Image](link-to-your-banner-image)
-
-I'm a passionate [Your Profession] based in [Your Location]. Welcome to my corner of the GitHub universe! 🚀
+I'm an aspirant Software Engineer. Welcome to my corner of the GitHub universe! 🚀
 
 ## 🌟 About Me
 
 - 💻 I love coding and exploring new technologies.
 - 🚀 Always eager to learn and grow.
-- 🌐 Enthusiast about web development, AI, and open source projects.
+- 🌐 Enthusiast about Programming, Web Devlopment, and Open Source projects.
 
 ## 🚀 Skills
 
-- **Languages:** [Your Programming Languages]
-- **Frameworks:** [Your Frameworks]
-- **Tools:** [Your Tools]
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](your-twitter-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](link-to-your-portfolio)
+- **Languages:** - [ ] Java - [ ] Python - [ ] JavaScript - [ ] HTML/CSS
+- **Frameworks:** - [ ] Node.js - [ ] React - [ ] Bootstrap
+- **Tools:** - [ ] Blender - [ ] PhotoShop - [ ] VS Code - [ ] Office365 - [ ] Unity
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
 
-## 📚 Featured Projects
-
-### [Project Name 1](link-to-project-1)
-Description of the project goes here.
-
-![Project 1 Image](link-to-project-1-image)
-
-### [Project Name 2](link-to-project-2)
-Description of the project goes here.
-
-![Project 2 Image](link-to-project-2-image)
-
-## 🎉 Let's Collaborate
-
-I'm always open to collaboration and new opportunities. If you have an interesting project or idea, feel free to reach out!
-
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-red)](mailto:your-email@example.com)
 
 Thanks for stopping by! ✨
 
