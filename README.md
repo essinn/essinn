@@ -4,36 +4,54 @@ Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and explori
 
 ## 🚀 Skills & Tools
 
-- **Languages:** 
-  - [ ] Java
-  - [ ] Python
-  - [ ] Javascript
-  - [ ] HTML/CSS
+<div style="display: flex; flex-wrap: wrap;">
 
-- **Frameworks & Libraries:**
-  - [ ] React
-  - [ ] Node.js
-  - [ ] Bootstrap
+  <div style="flex: 50%;">
 
-- **Databases:**
-  - [ ] MySQL
-  - [ ] SQLite
+    ### Languages & Frameworks
 
-- **Other Tools:**
-  - [ ] Blender
-  - [ ] PhotoShop
-  - [ ] VS Code
-  - [ ] Office365
-  - [ ] Unity
+    - **Languages:** 
+      - [ ] Java
+      - [ ] Python
+      - [ ] JavaScript
+      - [ ] HTML/CSS
+
+    - **Frameworks & Libraries:**
+      - [ ] React
+      - [ ] Node.js
+      - [ ] Bootstrap
+
+  </div>
+
+  <div style="flex: 50%;">
+
+    ### Databases & Tools
+
+    - **Databases:**
+      - [ ] MySQL
+      - [ ] SQLite
+
+    - **Other Tools:**
+      - [ ] Blender
+      - [ ] Photoshop
+      - [ ] VS Code
+      - [ ] Office365
+      - [ ] Unity
+
+  </div>
+
+</div>
 
 ## 🌱 Currently Learning
 
-- [ ] Java, Architecture, Bboying, TKD
+- [ ] Java
+- [ ] Architecture
+- [ ] Bboying
+- [ ] TKD
 
 ## 📫 Get in Touch
 
-- Discord: <a href="https://discordapp.com/users/744642364135571617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="intelligenthoodlum" height="30" width="40" /></a>
-</p>
+- Discord: [Essinn on Discord](https://discordapp.com/users/744642364135571617)
 
 Feel free to reach out if you share similar interests or just want to connect! 😊
 
