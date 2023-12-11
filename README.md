@@ -4,31 +4,22 @@ Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and explori
 
 ## 🚀 Skills & Tools
 
-### Languages & Frameworks
+| **Languages & Frameworks**     | **Databases & Tools**         |
+| ------------------------------ | ------------------------------ |
+| - [ ] Java                     | - [ ] MySQL                    |
+| - [ ] Python                   | - [ ] SQLite                   |
+| - [ ] JavaScript               | - [ ] Blender                  |
+| - [ ] HTML/CSS                 | - [ ] Photoshop                |
+| - [ ] React                    | - [ ] VS Code                  |
+| - [ ] Node.js                  | - [ ] Office365                |
+| - [ ] Bootstrap                | - [ ] Unity                    |
 
-- **Languages:** 
-  - [ ] Java
-  - [ ] Python
-  - [ ] JavaScript
-  - [ ] HTML/CSS
+## 🌱 Currently Learning
 
-- **Frameworks & Libraries:**
-  - [ ] React
-  - [ ] Node.js
-  - [ ] Bootstrap
-
-### Databases & Tools
-
-- **Databases:**
-  - [ ] MySQL
-  - [ ] SQLite
-
-- **Other Tools:**
-  - [ ] Blender
-  - [ ] Photoshop
-  - [ ] VS Code
-  - [ ] Office365
-  - [ ] Unity
+- [ ] Java
+- [ ] Architecture
+- [ ] Bboying
+- [ ] TKD
 
 ## 🌱 Currently Learning
 
