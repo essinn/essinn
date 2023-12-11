@@ -1,40 +1,60 @@
 # About Me
 
-Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and exploring new technologies.
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+Hello! 👋 I'm Essinn, an aspiring Software Engineer. I love coding and exploring new technologies.
 
-  <div style="flex: 1;">
+## 🚀 Skills & Tools
 
-    ### Languages & Frameworks
+### Languages & Frameworks
 
-    - [ ] Java
-    - [ ] Python
-    - [ ] JavaScript
-    - [ ] HTML/CSS
+<div style="display: flex; justify-content: space-around;">
 
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="Java" width="50" height="50">
+    <p>Java</p>
   </div>
 
-  <div style="flex: 1;">
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="Python" width="50" height="50">
+    <p>Python</p>
+  </div>
 
-    ### Databases & Tools
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="JavaScript" width="50" height="50">
+    <p>JavaScript</p>
+  </div>
 
-    - [ ] MySQL
-    - [ ] SQLite
-    - [ ] Blender
-    - [ ] Photoshop
-    - [ ] VS Code
-    - [ ] Office365
-    - [ ] Unity
-
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="HTML/CSS" width="50" height="50">
+    <p>HTML/CSS</p>
   </div>
 
 </div>
-## 🌱 Currently Learning
 
-- [ ] Java
-- [ ] Architecture
-- [ ] Bboying
-- [ ] TKD
+### Databases & Tools
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="MySQL" width="50" height="50">
+    <p>MySQL</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="SQLite" width="50" height="50">
+    <p>SQLite</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="Blender" width="50" height="50">
+    <p>Blender</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://via.placeholder.com/50" alt="VS Code" width="50" height="50">
+    <p>VS Code</p>
+  </div>
+
+</div>
 
 ## 🌱 Currently Learning
 
@@ -45,8 +65,7 @@ Hello! 👋 I'm Essinn, an aspirant Software Engineer. I love coding and explori
 
 ## 📫 Get in Touch
 
-- Discord: <a href="https://discordapp.com/users/744642364135571617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="intelligenthoodlum" height="30" width="40" /></a>
-</p>
+- Discord: [Essinn on Discord](https://discordapp.com/users/744642364135571617)
 
 Feel free to reach out if you share similar interests or just want to connect! 😊
 
