@@ -10,9 +10,9 @@ I'm an aspirant Software Engineer. Welcome to my corner of the GitHub universe! 
 
 ## 🚀 Skills
 
-- **Languages:** -  Java -  Python -  JavaScript -  HTML/CSS
-- **Frameworks:** -  Node.js -  React -  Bootstrap
-- **Tools:** -  Blender -  PhotoShop -  VS Code -  Office365 -  Unity
+- **Languages:** -  Java, Python, JavaScript, HTML/CSS
+- **Libraries:** -  Node.js, React, Bootstrap
+- **Tools:** -  Blender, PhotoShop, VS Code, IntelliJ, Unity
 
 ## 📈 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essinn&show_icons=true&locale=en&layout=compact" alt="essinn" /></p>
