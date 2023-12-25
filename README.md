@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Essinn
+# 👋 Hello, World!
 
 I'm an aspirant Software Engineer. Welcome to my corner of the GitHub universe! 🚀
 
