@@ -1,23 +1,21 @@
 # 👋 Hello, World!
 
-I'm an aspirant Software Engineer. Welcome to my corner of the GitHub universe! 🚀
+I'm an aspirant Software Developer and Game Developer. Welcome to my corner of the GitHub universe! 🚀
 
 ## 🌟 About Me
 
 - 💻 I love coding and exploring new technologies.
 - 🚀 Always eager to learn and grow.
-- 🌐 Enthusiastic about Programming, Web Devlopment, and Open Source projects.
+- 🌐 Enthusiastic about Programming, Web Devlopment, and Open Source Projects.
 
 ## 🚀 Skills
 
-- **Languages:** -  Java, Python, JavaScript, HTML/CSS
-- **Libraries:** -  Node.js, React, Bootstrap
-- **Tools:** -  Blender, PhotoShop, VS Code, IntelliJ, Unity
+- **Languages:** -  Java, C#, Python, JavaScript, HTML/CSS
+- **Tools:** -  Blender, Unity, VS Code, IntelliJ, PhotoShop
 
 ## 📈 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essinn&show_icons=true&locale=en&layout=compact" alt="essinn" /></p>
 
-Thanks for stopping by! ✨
 
 
 <!--<h1 align="center">Hi 👋, I'm Essinn</h1>
