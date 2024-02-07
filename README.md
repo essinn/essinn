@@ -1,12 +1,11 @@
 # 👋 Hello, World!
 
-I'm an aspirant Software Developer and Game Developer. Welcome to my corner of the GitHub universe! 🚀
+I'm an aspirant Software Developer and Game Developer.
 
 ## 🌟 About Me
 
 - 💻 I love coding and exploring new technologies.
 - 🚀 Always eager to learn and grow.
-- 🌐 Enthusiastic about Programming, Web Devlopment, and Open Source Projects.
 
 ## 🚀 Skills
 
